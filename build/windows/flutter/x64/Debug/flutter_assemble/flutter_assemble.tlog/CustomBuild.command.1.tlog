@@ -1,0 +1,28 @@
+^D:\PROGRAMMING\FLUTTER\EXAMPLES\NEWSAPP\BUILD\WINDOWS\CMAKEFILES\A830CBA9AD3F8087624FA3DAB064A1DC\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter PROJECT_DIR=D:\programming\flutter\examples\newsapp FLUTTER_ROOT=C:\src\flutter FLUTTER_EPHEMERAL_DIR=D:\programming\flutter\examples\newsapp\windows\flutter\ephemeral PROJECT_DIR=D:\programming\flutter\examples\newsapp FLUTTER_TARGET=D:\programming\flutter\examples\newsapp\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\programming\flutter\examples\newsapp\.dart_tool\package_config.json C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROGRAMMING\FLUTTER\EXAMPLES\NEWSAPP\BUILD\WINDOWS\CMAKEFILES\C5621EFCE15203B2E5C9A98252BD4551\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROGRAMMING\FLUTTER\EXAMPLES\NEWSAPP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/programming/flutter/examples/newsapp/windows -BD:/programming/flutter/examples/newsapp/build/windows --check-stamp-file D:/programming/flutter/examples/newsapp/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

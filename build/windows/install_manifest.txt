@@ -1,0 +1,13 @@
+D:/programming/flutter/examples/newsapp/build/windows/runner/Debug/data/icudtl.dat
+D:/programming/flutter/examples/newsapp/build/windows/runner/Debug/flutter_windows.dll
+D:/programming/flutter/examples/newsapp/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/programming/flutter/examples/newsapp/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Lobster/Lobster-Regular.ttf
+D:/programming/flutter/examples/newsapp/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Oswald/Oswald-Bold.ttf
+D:/programming/flutter/examples/newsapp/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Oswald/Oswald-Light.ttf
+D:/programming/flutter/examples/newsapp/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/programming/flutter/examples/newsapp/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/programming/flutter/examples/newsapp/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/programming/flutter/examples/newsapp/build/windows/runner/Debug/data/flutter_assets/NOTICES
+D:/programming/flutter/examples/newsapp/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/programming/flutter/examples/newsapp/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/programming/flutter/examples/newsapp/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

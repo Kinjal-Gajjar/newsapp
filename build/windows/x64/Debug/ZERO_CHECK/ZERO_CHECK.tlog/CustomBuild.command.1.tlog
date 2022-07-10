@@ -1,0 +1,10 @@
+^D:\PROGRAMMING\FLUTTER\EXAMPLES\NEWSAPP\BUILD\WINDOWS\CMAKEFILES\A19736FEA4A6CA185D553D858A6F06B4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/programming/flutter/examples/newsapp/windows -BD:/programming/flutter/examples/newsapp/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/programming/flutter/examples/newsapp/build/windows/newsapp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
